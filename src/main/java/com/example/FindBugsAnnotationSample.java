@@ -1,12 +1,12 @@
 package com.example;
 
-import edu.umd.cs.findbugs.annotations.NonNull;
-import edu.umd.cs.findbugs.annotations.Nullable;
-import edu.umd.cs.findbugs.annotations.CheckForNull;
+import javax.annotation.CheckForNull;
+import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
 
 public class FindBugsAnnotationSample {
 
-	@NonNull
+	@Nonnull
 	public static String nonNullMethod() {
 		return null;
 	}

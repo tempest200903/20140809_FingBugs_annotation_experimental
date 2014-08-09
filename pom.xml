@@ -20,4 +20,16 @@
    <version>3.0.0</version>
   </dependency>
  </dependencies>
+
+ <!-- http://mojo.codehaus.org/findbugs-maven-plugin/usage.html -->
+ <reporting>
+  <plugins>
+   <plugin>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>findbugs-maven-plugin</artifactId>
+    <version>3.0.0</version>
+   </plugin>
+  </plugins>
+ </reporting>
+
 </project>
