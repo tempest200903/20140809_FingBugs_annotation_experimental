@@ -4,6 +4,11 @@ import javax.annotation.CheckForNull;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
+/**
+ * 
+ * @author tempest200903
+ *
+ */
 public class FindBugsAnnotationSample {
 
 	@Nonnull

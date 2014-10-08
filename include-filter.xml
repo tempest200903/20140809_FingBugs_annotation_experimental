@@ -1,0 +1,5 @@
+<FindBugsFilter>
+ <Match>
+  <Bug code="URF_UNREAD_FIELD" />
+ </Match>
+</FindBugsFilter>

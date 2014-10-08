@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BugCollection>
+  <Match>
+    <Bug pattern="URF_UNREAD_FIELD" />
+  </Match>
+  <Match>
+    <Bug pattern="NP_CLONE_COULD_RETURN_NULL" />
+  </Match>
+</BugCollection>
+ 
